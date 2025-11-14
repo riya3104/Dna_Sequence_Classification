@@ -1,4 +1,4 @@
-#🧬 DNA Sequence Classification – Coding vs Non-Coding  
+# 🧬 DNA Sequence Classification – Coding vs Non-Coding  
 *A Machine Learning + React + Flask Project*
 
 This project classifies DNA sequences as **Coding** or **Non-Coding** using Machine Learning (Random Forest) and provides a clean **React UI** with a **Flask backend API**.
